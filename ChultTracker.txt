@@ -1,0 +1,3 @@
+days_since_start:7
+repellent_apps_left:35
+days_to_kill_shago:8
